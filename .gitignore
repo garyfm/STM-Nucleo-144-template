@@ -1,0 +1,6 @@
+build/
+tags
+*.elf
+*.d
+*.o
+*.bin
