@@ -1,3 +1,7 @@
 {
-    "makefile.extensionOutputFolder": "./.vscode"
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "stm32f7xx_hal_msp.h": "c",
+        "stm32f7xx_hal.h": "c"
+    }
 }

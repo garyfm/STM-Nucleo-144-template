@@ -37,6 +37,7 @@ BUILD_DIR = build
 # C sources
 C_SOURCES =  \
 src/main.c \
+stm/retarget.c \
 stm/stm32f7xx_it.c \
 stm/stm32f7xx_hal_msp.c \
 stm/system_stm32f7xx.c  \
